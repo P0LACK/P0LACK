@@ -1,9 +1,5 @@
 👋 Hi, I’m @P0LACK
 
-👀 I’m interested in Artificial Intelligence and back-end
-
-🌱 I’m currently learning C++ and C#
-
-💞️ I’m looking to collaborate on ...
+👀 php lavarel developer and software engineer
 
 📫 How to reach me https://t.me/P0LACK
